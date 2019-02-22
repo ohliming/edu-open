@@ -7,8 +7,8 @@
 5. 机器学习模型实例(结构：数据-> 目标 -> 模型-> 效果 -> 优化). Example: 1.小说章节内容概述的生成及关键[特定]信息。
 
 ## 目录机构
-*1*-> novel-mart
-*2*-> dev-tool
-*3*-> oper-tool
-*4*-> secure-attack
-*5*-> ml-item
+1-> novel-mart
+2-> dev-tool
+3-> oper-tool
+4-> secure-attack
+5-> ml-item
